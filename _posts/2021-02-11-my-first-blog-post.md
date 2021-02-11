@@ -1,5 +1,5 @@
 ---
 title: "Your blog post title"
-date: YYYY-MM-DD
+date: 2021-02-12
 ---
 test post for github tutorial
