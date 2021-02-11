@@ -1,5 +1,5 @@
 ---
-tltle: "first post"
-date: 2021-02-12
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 test post for github tutorial
